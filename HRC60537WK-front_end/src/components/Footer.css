@@ -1,0 +1,14 @@
+.footer {
+    height: 5vh;
+    overflow-y: none;
+    text-align: center;
+    background-color: #293C4A;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+    color: white;
+}
+
+a {
+    color: blue;
+}
